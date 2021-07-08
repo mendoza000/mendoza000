@@ -21,7 +21,7 @@ Actualmente estoy realizando proyectos de desarrollo web frontend mientras avanz
 
 Puede contactarme a travez de mis redes sociales
 
-[![Twitter Badge](https://img.shields.io/badge/-nodejs-black?style=for-the-badge&logo=twitter)](https://twitter.com/mendoza000x)
+[![Twitter Badge](http://img.shields.io/badge/Mi_Twitter-orange?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mendoza000x)
 [![Portfolio Badge](http://img.shields.io/badge/Revisa_mi_portafilo-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mendoza000.github.io/portafolio)
 
 <div align="center">
