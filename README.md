@@ -1,32 +1,17 @@
 # ✌ Hola mundo
 
+Yo soy Omar Mendoza, en estos momentos estoy desarrollando mis habilidades de forma autodidacta. Tengo 17 años, soy Venezolano. Mis mayores pasatiempos son programar y escuchar podcasts.
 
+Actualmente estoy realizando proyectos de desarrollo web frontend mientras avanzo con el aprendizaje del mismo.
 
 ![Omar Mendoza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mendoza000&show_icons=true)
 
-Yo soy Omar Mendoza, en estos momentos estoy desarrollando mis habilidades de forma autodidacta. Tengo 17 años, soy Venezolano. Mis mayores pasatiempos son programar y escuchar podcasts.
+## - 🧠 Habilidades
 
-## - 🕹️ My Job
-Actualmente estoy realizando proyectos de desarrollo web frontend mientras avanzo con el aprendizaje del mismo.
-
-## - 🧠 I Know / Use
-### Programming Languages:
-
-<img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue" style="margin:5px" /><img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp&logoColor=green" style="margin:5px" /><img src="http://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua&logoColor=blue" style="margin:5px" /><img src="http://img.shields.io/badge/-c-black?style=for-the-badge&logo=c&logoColor=white" style="margin:5px" /><img src="http://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=orange" style="margin:5px" /><img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" />
+<img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" /><img src="https://img.shields.io/badge/-webpack-black?style=for-the-badge&logo=webpack" style="margin:5px" /><img src="https://img.shields.io/badge/-css-black?style=for-the-badge&logo=css3" style="margin:5px" /><img src="https://img.shields.io/badge/-css-black?style=for-the-badge&logo=css3" style="margin:5px" /><img src="https://img.shields.io/badge/-html-black?style=for-the-badge&logo=html5" style="margin:5px" /><img src="https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git" style="margin:5px" /><img src="https://img.shields.io/badge/-terminal-black?style=for-the-badge&logo=console" style="margin:5px" />
 
 <code><img src="https://github.com/github/explore/blob/master/topics/matlab/matlab.png?raw=true" height="32px" style="margin:5px" /></code>
 
-### APIs:
-
-<img src="http://img.shields.io/badge/-opengl-black?style=for-the-badge&logo=opengl" style="margin:5px" /><img src="http://img.shields.io/badge/-qt-black?style=for-the-badge&logo=qt" style="margin:5px" />
-
-<code><img src="https://github.com/github/explore/blob/master/topics/javafx/javafx.png?raw=true" height="32" style="margin:5px" /></code>
-
-### Tools:
-
-<img src="http://img.shields.io/badge/-git-black?style=for-the-badge&logo=git" style="margin:5px" /><img src="http://img.shields.io/badge/-gitgub-black?style=for-the-badge&logo=github" style="margin:5px" /><img src="http://img.shields.io/badge/-unity-black?style=for-the-badge&logo=unity" style="margin:5px" /><img src="http://img.shields.io/badge/-godot-black?style=for-the-badge&logo=godot-engine" style="margin:25x" /><img src="http://img.shields.io/badge/-maven-black?style=for-the-badge&logo=apache-maven&logoColor=red" style="margin:5px" />
-
-<code><img src="https://github.com/github/explore/blob/master/topics/gamemaker/gamemaker.png?raw=true" height="32" style="margin:5px" /></code>
 
 ## - 🤓 I’m currently learning
 
