@@ -4,12 +4,6 @@ Yo soy Omar Mendoza, en estos momentos estoy desarrollando mis habilidades de fo
 
 Actualmente estoy realizando proyectos de desarrollo web frontend mientras avanzo con el aprendizaje del mismo.
 
-<div align="right">
-  
-![Omar Mendoza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mendoza000&show_icons=true)
-
-</div>
-
 ## - 🧠 Habilidades
 <div align="center">
 
@@ -29,8 +23,8 @@ Actualmente estoy realizando proyectos de desarrollo web frontend mientras avanz
 
 Puede contactarme a travez de mis redes sociales
 
-[![Twitter Badge](http://img.shields.io/badge/Mi_Twitter-orange?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mendoza000x)
-[![Portfolio Badge](http://img.shields.io/badge/Revisa_mi_portafilo-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mendoza000.github.io/portafolio)
+[![Twitter Badge](http://img.shields.io/badge/Mi_Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mendoza000x)
+[![Portfolio Badge](http://img.shields.io/badge/Revisa_mi_portafilo-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mendoza000.github.io/portafolio)
   
 </div>
 
