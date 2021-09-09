@@ -7,14 +7,15 @@ Actualmente estoy realizando proyectos de desarrollo web frontend mientras avanz
 ## - 🧠 Habilidades
 <div align="center">
 
-<img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" /><img src="https://img.shields.io/badge/-webpack-black?style=for-the-badge&logo=webpack" style="margin:5px" /><img src="https://img.shields.io/badge/-css-black?style=for-the-badge&logo=css3" style="margin:5px" /><img src="https://img.shields.io/badge/-html-black?style=for-the-badge&logo=html5" style="margin:5px" /><img src="https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git" style="margin:5px" /><img src="https://img.shields.io/badge/-terminal-black?style=for-the-badge&logo=console" style="margin:5px" />
+<img src="http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript" style="margin:5px" /><img src="https://img.shields.io/badge/-webpack-black?style=for-the-badge&logo=webpack" style="margin:5px" /><img src="https://img.shields.io/badge/-css-black?style=for-the-badge&logo=css3" style="margin:5px" /><img src="https://img.shields.io/badge/-html-black?style=for-the-badge&logo=html5" style="margin:5px" /><img src="https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git" style="margin:5px" /><img src="https://img.shields.io/badge/-terminal-black?style=for-the-badge&logo=console" style="margin:5px" /><img src="https://img.shields.io/badge/-nodejs-black?style=for-the-badge&logo=nodedotjs" style="margin:5px" />
 
 </div>
 
 ## - 🤓 Actualmente estoy aprendiendo
 <div align="center">
 
-<img src="https://img.shields.io/badge/-reactjs-black?style=for-the-badge&logo=react" style="margin:5px" /><img src="https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python" style="margin:5px" /><img src="https://img.shields.io/badge/-nodejs-black?style=for-the-badge&logo=nodedotjs" style="margin:5px" />
+<img src="https://img.shields.io/badge/-reactjs-black?style=for-the-badge&logo=react" style="margin:5px" /><img src="https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python" style="margin:5px" /><img src="https://img.shields.io/badge/-Vue-black?style=for-the-badge&logo=vuedotjs" style="margin:5px" />
+  
 
 </div>
 
