@@ -1,6 +1,6 @@
 # ✌ Hola mundo
 
-Yo soy Omar Mendoza, en estos momentos estoy desarrollando mis habilidades de forma autodidacta. Tengo 17 años, soy Venezolano. Mis mayores pasatiempos son programar y escuchar podcasts.
+Yo soy Omar Mendoza, en estos momentos estoy desarrollando mis habilidades de forma autodidacta. Soy Venezolano. Mis mayores pasatiempos son programar y escuchar podcasts.
 
 Actualmente estoy realizando proyectos de desarrollo web frontend mientras avanzo con el aprendizaje del mismo.
 
