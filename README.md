@@ -7,17 +7,17 @@ Actualmente estoy realizando proyectos de desarrollo web frontend mientras avanz
 ```javascript
 const mendoza000 = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS],
+   code: [Javascript, Typescript, HTML, CSS, Golang],
    technologies: {
       frontEnd: {
-         js: ["React", "NextJS"],
+         js: ["React", "NextJS", "Vue3"],
          css: ["Sass", "TailwindCSS"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node", "Express", "Gin", "Fiber"],
       },
-      databases: ["MongoDB"],
-      tools: ["Redux", "Terminal", "Vite", "Git"]
+      databases: ["MongoDB", "MySQL"],
+      tools: ["Redux", "Terminal", "Vite", "Git", "Pinia"]
    }
 };
 ```
