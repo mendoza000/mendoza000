@@ -23,6 +23,26 @@
 - Venezuelan, available for work.
 - Ease of adapting to any work stack.
 
+## 🚀 Skills
+
+<ul style="display: grid; grid-template-columns: repeat(2, 1fr)">
+<li>Javascript </li>
+<li>Typescript </li>
+<li>React </li>
+<li>NextJS </li>
+<li>Go </li>
+<li>Tailwind </li>
+<li>Sass </li>
+<li>Vue </li>
+<li>Redux </li>
+<li>Vite </li>
+<li>Git </li>
+<li>NodeJS </li>
+<li>MongoDB </li>
+<li>MySQL </li>
+<li>Supabase </li>
+</ul>
+
 <!-- <div align="center">
 
 ### Demuestra ❤️ dando le estrellas a mis repositorios!
