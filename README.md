@@ -6,6 +6,16 @@
 
 <img src="https://i.imgur.com/qENzLm7.png">
 
+<div style="display: flex; gap:1rem">
+
+[![Twitter Badge](http://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mendoza000x)
+
+[![Portfolio Badge](http://img.shields.io/badge/Portafilo-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mendoza000.vercel.app)
+
+[![Portfolio Badge](http://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendoza000.dev@gmail.com)
+
+</div>
+
 ## ⚡ About me
 
 - Frontend and Backend web developer.
@@ -13,19 +23,8 @@
 - Venezuelan, available for work.
 - Ease of adapting to any work stack.
 
-## - 📫 Como contactar conmigo
-
-<div align="center">
-
-Puede contactarme a través de mis redes sociales
-
-[![Twitter Badge](http://img.shields.io/badge/Mi_Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mendoza000x)
-[![Portfolio Badge](http://img.shields.io/badge/Revisa_mi_portafilo-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mendoza000.vercel.app)
-
-</div>
-
-<div align="center">
+<!-- <div align="center">
 
 ### Demuestra ❤️ dando le estrellas a mis repositorios!
 
-</div>
+</div> -->
