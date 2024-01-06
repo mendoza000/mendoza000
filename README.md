@@ -6,6 +6,13 @@
 
 <img src="https://i.imgur.com/qENzLm7.png">
 
+## ⚡ About me
+
+- Frontend and Backend web developer.
+- Specialized in creating beautiful and functional visual interfaces.
+- Venezuelan, available for work.
+- Ease of adapting to any work stack.
+
 ## - 📫 Como contactar conmigo
 
 <div align="center">
