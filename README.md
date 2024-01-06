@@ -4,7 +4,7 @@
    </h1>
 </div>
 
-<img src="https://i.imgur.com/CCs9MEJ.png">
+<img src="https://i.imgur.com/qENzLm7.png">
 
 ## - 📫 Como contactar conmigo
 
